@@ -1,2 +1,2 @@
 #!/bin/bash
-mv  /alx-system_engineering-devops/?[A-Z] /tmp/u
+ls /alx-system_engineering-devops/^[A-Z]?
